@@ -1,0 +1,136 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+
+    margin: 0px;
+}
+
+h1 {
+    display: inline;
+    margin-left: 130px;
+    margin-bottom: 15px;
+    overflow: hidden;
+
+}
+
+.chiv {
+    align-items: center;
+    height: 130px;
+    width: 130px;
+    margin-left: 695px;
+}
+
+.bg {
+    background-image: url("college-5757815_1920.jpg");
+    background-repeat: no-repeat;
+}
+
+nav {
+    height: 100px;
+    padding-top: 15px;
+}
+
+a {
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#h:hover {
+    background-color: white;
+    /* transition: 0.5s; */
+    border: 0.1px white;
+    border-radius: 15000000px;
+}
+
+nav ul {
+    float: right;
+    display: flex;
+    margin-right: 100px;
+}
+
+nav ul li {
+    margin: 5px;
+    display: flex;
+    padding: 10px;
+    color: black;
+    font-weight: bolder;
+    border: 1px solid white;
+    border-radius: 500px;
+
+}
+
+.trojanbody {
+    height: 1100px;
+    width: 1518px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-left: 420px;
+    width: 678px;
+    background-color: rgba(13, 205, 198, 0.753);
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 0px;
+    border-radius: 25px;
+}
+
+h3 {
+    margin-left: 420px;
+    width: 680px;
+    background-color: rgba(255, 255, 255, 0.824);
+    font-size: 30px;
+    text-align: center;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    border: 0px;
+    border-radius: 5px;
+}
+
+.typing {
+    font-weight: bolder;
+    color: rgb(0, 30, 255);
+}
+
+.plaque {
+    margin-left: 230px;
+}
+
+.crest {
+    width: 350px;
+    height: 510px;
+}
+
+.cont {
+    background-color: rgba(255, 255, 255, 0.824);
+    color: black;
+    font-weight: bolder;
+    margin-top: -88px;
+    margin-right: 100px;
+    margin-left: 100px;
+    padding: 50px 50px;
+    text-align: left;
+    font-size: x-large;
+    overflow: hidden;
+    text-align: center;
+}
+
+.txt {
+    color: rgb(155, 1, 111);
+}
+
+footer {
+    padding-left: 5px;
+    font-weight: bolder;
+    background-color: rgba(255, 252, 252, 0.737);
+    height: 18px;
+    color: rgb(0, 0, 0);
+}
